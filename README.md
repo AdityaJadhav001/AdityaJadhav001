@@ -1,4 +1,3 @@
-# About Me
 
 ## 👋 Hi, I'm Aditya!
 A passionate web developer who loves building modern, scalable, and user-friendly applications.
