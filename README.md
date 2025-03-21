@@ -1,16 +1,24 @@
-## Hi there 👋
+# About Me
 
-<!--
-**AdityaJadhav001/AdityaJadhav001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Aditya!
+A passionate web developer who loves building modern, scalable, and user-friendly applications.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
+- Frontend: HTML, CSS, JavaScript, Angular, React
+- Backend: Node.js, Express, .Net(Core), Python, Django, Flask
+- Databases: MongoDB, MySQL
+- Tools: Git, Docker, CI/CD, Webpack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I Do
+- 🔹 Develop full-stack web applications
+- 🔹 Optimize websites for speed and SEO
+- 🔹 Collaborate with teams on open-source projects
+- 🔹 Constantly learning and exploring new technologies
+
+## 🚀 Projects & Contributions
+Check out my projects and contributions on my https://github.com/AdityaJadhav001.
+
+## 📩 Let's Connect!
+- LinkedIn: -
+- Twitter: -
+- Email: mr.jadhav.aditya@gmail.com
